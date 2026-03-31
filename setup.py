@@ -7,8 +7,8 @@ def readme():
 setup(
   name='ConsoleG',
   version='0.1.0',
-  author='Setkove',
-  author_email='biarslan551@gmail.com',
+  author='SetkoveStudio',
+  author_email='alatovmaga@gmail.com',
   description='This Graphics Library',
   long_description=readme(),
   long_description_content_type='The Graphics Library it allows you to create and draw graphics, as well as graphics functions that allow you to create many things',
